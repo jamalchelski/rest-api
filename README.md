@@ -10,8 +10,8 @@
 
 ## 5 Endpoint yaitu :
 
-GET /datas
-GET /datas/{id}
-POST /datas
-PUT /datas/{id}
-DELETE /datas/{id}
+-   GET /datas
+-   GET /datas/{id}
+-   POST /datas
+-   PUT /datas/{id}
+-   DELETE /datas/{id}
