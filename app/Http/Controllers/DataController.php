@@ -37,7 +37,7 @@ class DataController extends Controller
         $data->suhu_out = $request->suhu_out;
         $data->kelembaban_out = $request->kelembaban_out;
         $data->save();
-        return response()->json("Data berhasil diubah", $data);
+        return response()->json("Data berhasil diubah");
     }
 
     public function delete($id)
