@@ -1,4 +1,4 @@
-# Monitoring Suhu dan Kelembaban Udara
+# REST-API Monitoring Suhu dan Kelembaban Udara
 
 ## Teknologi yang digunakan
 
